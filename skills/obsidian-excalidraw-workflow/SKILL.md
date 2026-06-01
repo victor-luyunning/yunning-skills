@@ -5,6 +5,24 @@ description: Create, inspect, convert, or repair Obsidian Excalidraw .excalidraw
 
 # Obsidian Excalidraw Workflow
 
+[中文](#中文) | [English](#english)
+
+## 中文
+
+这个 skill 用于创建、检查、转换和修复 Obsidian Excalidraw `.excalidraw.md` 图形文件，让生成的图能在 Obsidian Excalidraw 插件中正确打开。
+
+核心能力：
+
+- 根据目标 vault 的 Excalidraw 插件配置自动选择 `compressed-json` 或 `json` 保存格式
+- 将输出限制在声明的 vault 根目录内
+- 默认拒绝覆盖已有文件，除非显式传入 `--force`
+- 提供 `--inspect`、`--dry-run` 和 `--verify` 模式
+- 适合排查 `.excalidraw.md` 显示为 raw Markdown 的问题
+
+详细工作流和命令示例见下方英文说明。
+
+## English
+
 Use this skill when working with Obsidian vault notes that include Excalidraw drawings. It is designed for local vaults that use the Obsidian Excalidraw community plugin and need generated diagrams to render in Excalidraw view instead of appearing as raw Markdown.
 
 ## When to Use
