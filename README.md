@@ -13,7 +13,7 @@
 安装：
 
 ```bash
-npx skills add victor-luyunning/yunning-skills
+npx skills add victor-luyunning/yunning-skills --skill obsidian-excalidraw-workflow
 ```
 
 ### Skills
@@ -53,7 +53,7 @@ This repository collects focused skills that help agents work with local files, 
 Install:
 
 ```bash
-npx skills add victor-luyunning/yunning-skills
+npx skills add victor-luyunning/yunning-skills --skill obsidian-excalidraw-workflow
 ```
 
 ### Skills
