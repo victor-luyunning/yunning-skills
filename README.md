@@ -10,12 +10,6 @@
 
 这个仓库收集小而专注的 skills，用来帮助 Agent 处理本地文件、开发工具、笔记、图表和其他可重复工作流。每个 skill 都尽量保持自包含，方便复制、安装、审查和发布。
 
-安装：
-
-```bash
-npx skills add victor-luyunning/yunning-skills --skill obsidian-excalidraw-workflow
-```
-
 ### Skills
 
 - [obsidian-excalidraw-workflow](#obsidian-excalidraw-workflow-中文)
@@ -25,6 +19,12 @@ npx skills add victor-luyunning/yunning-skills --skill obsidian-excalidraw-workf
 创建、检查、转换和修复 Obsidian Excalidraw `.excalidraw.md` 图形文件，让它们能在 Obsidian Excalidraw 插件中正确打开。
 
 链接：[skills.sh](https://skills.sh/victor-luyunning/yunning-skills/obsidian-excalidraw-workflow) | [文件夹](skills/obsidian-excalidraw-workflow/) | [SKILL.md](skills/obsidian-excalidraw-workflow/SKILL.md)
+
+安装：
+
+```bash
+npx skills add victor-luyunning/yunning-skills --skill obsidian-excalidraw-workflow
+```
 
 适合这些场景：
 
@@ -50,12 +50,6 @@ Reusable skills for general agent workflows.
 
 This repository collects focused skills that help agents work with local files, developer tools, notes, diagrams, and other repeatable workflows. Each skill is kept small and self-contained so it can be copied, installed, reviewed, or published independently.
 
-Install:
-
-```bash
-npx skills add victor-luyunning/yunning-skills --skill obsidian-excalidraw-workflow
-```
-
 ### Skills
 
 - [obsidian-excalidraw-workflow](#obsidian-excalidraw-workflow-english)
@@ -65,6 +59,12 @@ npx skills add victor-luyunning/yunning-skills --skill obsidian-excalidraw-workf
 Create, inspect, convert, and repair Obsidian Excalidraw `.excalidraw.md` drawings so they open correctly in the Obsidian Excalidraw plugin.
 
 Links: [skills.sh](https://skills.sh/victor-luyunning/yunning-skills/obsidian-excalidraw-workflow) | [folder](skills/obsidian-excalidraw-workflow/) | [SKILL.md](skills/obsidian-excalidraw-workflow/SKILL.md)
+
+Install:
+
+```bash
+npx skills add victor-luyunning/yunning-skills --skill obsidian-excalidraw-workflow
+```
 
 Use it when:
 
